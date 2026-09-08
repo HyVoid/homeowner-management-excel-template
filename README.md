@@ -1112,7 +1112,6 @@ In particular, the mortgage extra-payment interest-savings indicator is explicit
 
 Similarly, the capital-improvement tracking layer preserves project expenditure and classification for analytical/documentation purposes; users should independently confirm applicable tax treatment with a qualified professional.
 
-</details>
 
 ---
 ## Other Tools in This Series
