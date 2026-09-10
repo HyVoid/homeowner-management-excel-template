@@ -10,7 +10,7 @@
 >
 > **🌐 [Try the Free Online Home Budget Dashboard](https://hyvoid.github.io/homeowner-management-excel-template/)** → Explore the interactive web-based property tracker
 > 
-> **📥 [Download the Homeowner Financial Tracker Excel (.xlsx)](#)** → Get the reusable offline workbook version（coming soon）
+> **📥 [Download the Homeowner Financial Tracker Excel (.xlsx)](https://alexhasgreatestuff.gumroad.com/l/bfcoqf)** → Get the reusable offline workbook version
 
 ## What It Helps You Track: Core Features & Solutions
 
@@ -71,7 +71,7 @@ This spreadsheet tool is engineered to support a variety of real estate and fina
 * **Financial Planners looking for a Real Estate Portfolio Tracker:** An organized asset-tracking framework that financial advisors can share with clients to accurately calculate their net worth and housing debt-to-income ratios.
 * **DIY Property Managers using Excel for Maintenance Logs:** Ideal for organized owner-occupants or "house-hackers" who want a lightweight, professional-grade alternative to expensive property management software.
 
-**No advanced spreadsheet expertise is required. [Open the free web-based version](https://hyvoid.github.io/homeowner-management-excel-template/) to start organizing your home today, or [Download the Excel Template](#) for a persistent, private offline workspace.**
+**No advanced spreadsheet expertise is required. [Open the free web-based version](https://hyvoid.github.io/homeowner-management-excel-template/) to start organizing your home today, or [Download the Excel Template](https://alexhasgreatestuff.gumroad.com/l/bfcoqf) for a persistent, private offline workspace.**
 
 ## About
 
