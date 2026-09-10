@@ -10,18 +10,20 @@
 >
 > **🌐 [Try the Free Online Home Budget Dashboard](https://hyvoid.github.io/homeowner-management-excel-template/)** → Explore the interactive web-based property tracker
 > 
-> **📥 [Download the Homeowner Financial Tracker Excel (.xlsx)](https://alexhasgreatestuff.gumroad.com/l/bfcoqf)** → Get the reusable offline workbook version
+> **📥 [Download the Homeowner Financial Tracker Excel (.xlsx)](https://theseusworkshop.com/l/bfcoqf?utm_source=github&utm_medium=GitHub%20README)** → Get the reusable offline workbook version
 
 ## What It Helps You Track: Core Features & Solutions
 
 We designed this tool by mapping common new-homebuyer pain points directly to automated spreadsheet solutions:
 
-* **Pain Point: Unpredictable Monthly Housing Costs** ➔ **Solution (Household Budget Tracker):** Calculates your total monthly housing burden, integrating mortgage principal and interest (P&I), escrow accounts, HOA dues, utilities, and routine home repairs.
-* **Pain Point: Blind Mortgage Payoffs** ➔ **Solution (Mortgage Amortization Calculator):** Visualizes your mortgage payoff progress. Tracks interest paid, principal repaid, remaining loan balance, and the estimated interest savings from extra principal payments.
-* **Pain Point: Missed Deadlines & Costly Repairs** ➔ **Solution (Preventive Maintenance Scheduler):** Automates operational deadlines. Monitors HOA payment grace periods, seasonal maintenance due dates, and alerts you to overdue property upkeep conditions.
-* **Pain Point: Lost Insurance Claims** ➔ **Solution (Home Inventory & Asset Tracker):** Documents home asset exposure. Logs replacement values, high-value possessions, serial numbers, purchase receipts, and insurance policy references.
-* **Pain Point: Untracked Renovation ROI** ➔ **Solution (Capital Improvement Ledger):** Manages home improvement spending. Tracks contractor project budgets, actual construction costs, variance, permit numbers, and labor warranty dates.
-* **Pain Point: Hidden Ownership Expenses** ➔ **Solution (Annual Cost of Homeownership Dashboard):** Separates ordinary operating costs (sunk costs) from equity accumulation and capital expenditures (CapEx) to give you a clear, decision-ready financial overview.
+| Pain Point | Solution |
+| :--- | :--- |
+| **Unpredictable Monthly Housing Costs** | **Household Budget Tracker:** Calculates your total monthly housing burden, integrating mortgage principal and interest (P&I), escrow accounts, HOA dues, utilities, and routine home repairs. |
+| **Blind Mortgage Payoffs** | **Mortgage Amortization Calculator:** Visualizes your mortgage payoff progress. Tracks interest paid, principal repaid, remaining loan balance, and the estimated interest savings from extra principal payments. |
+| **Missed Deadlines & Costly Repairs** | **Preventive Maintenance Scheduler:** Automates operational deadlines. Monitors HOA payment grace periods, seasonal maintenance due dates, and alerts you to overdue property upkeep conditions. |
+| **Lost Insurance Claims** | **Home Inventory & Asset Tracker:** Documents home asset exposure. Logs replacement values, high-value possessions, serial numbers, purchase receipts, and insurance policy references. |
+| **Untracked Renovation ROI** | **Capital Improvement Ledger:** Manages home improvement spending. Tracks contractor project budgets, actual construction costs, variance, permit numbers, and labor warranty dates. |
+| **Hidden Ownership Expenses** | **Annual Cost of Homeownership Dashboard:** Separates ordinary operating costs (sunk costs) from equity accumulation and capital expenditures (CapEx) to give you a clear, decision-ready financial overview. |
 
 ## Quick Start Tutorial: How to Use the Home Management Spreadsheet
 
@@ -39,7 +41,7 @@ Let the spreadsheet's calculation layer do the heavy lifting. Maintenance tasks 
 
 ### Step 4: Export Your Reusable Excel Template (CTA)
 Once you have tested the workflow in your browser and seen how easy it is to manage your property data, download the permanent file. 
-👉 **[Download the Homeowner Excel Template Here](#) to save your progress, secure your financial data offline, and reuse the workbook month after month.**
+👉 **[Download the Homeowner Excel Template Here](https://theseusworkshop.com/l/bfcoqf?utm_source=github&utm_medium=GitHub%20README) to save your progress, secure your financial data offline, and reuse the workbook month after month.**
 
 ## Why I Built This Real Estate Operating Model
 
@@ -71,7 +73,7 @@ This spreadsheet tool is engineered to support a variety of real estate and fina
 * **Financial Planners looking for a Real Estate Portfolio Tracker:** An organized asset-tracking framework that financial advisors can share with clients to accurately calculate their net worth and housing debt-to-income ratios.
 * **DIY Property Managers using Excel for Maintenance Logs:** Ideal for organized owner-occupants or "house-hackers" who want a lightweight, professional-grade alternative to expensive property management software.
 
-**No advanced spreadsheet expertise is required. [Open the free web-based version](https://hyvoid.github.io/homeowner-management-excel-template/) to start organizing your home today, or [Download the Excel Template](https://alexhasgreatestuff.gumroad.com/l/bfcoqf) for a persistent, private offline workspace.**
+**No advanced spreadsheet expertise is required. [Open the free web-based version](https://hyvoid.github.io/homeowner-management-excel-template/) to start organizing your home today, or [Download the Excel Template](https://theseusworkshop.com/l/bfcoqf?utm_source=github&utm_medium=GitHub%20README) for a persistent, private offline workspace.**
 
 ## About
 
