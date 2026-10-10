@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # قالب إكسل مالي وإداري لإدارة المنزل في السنة الأولى
 
@@ -13,6 +13,10 @@
 > **🌐 [جرب لوحة ميزانية المنزل المجانية عبر الإنترنت](https://hyvoid.github.io/homeowner-management-excel-template/)** → استكشف متتبّع العقارات التفاعلي عبر الويب
 > 
 > **📥 [نزّل متتبّع الشؤون المالية لمالك المنزل بصيغة إكسل (.xlsx)](https://theseusworkshop.com/l/bfcoqf?utm_source=github&utm_medium=GitHub%20README)** → احصل على نسخة دفتر العمل القابل لإعادة الاستخدام دون اتصال
+<img width="1109" height="790" alt="image" src="https://github.com/user-attachments/assets/e35407b6-7f02-4d80-b482-45ba0ba4da9b" />
+<img width="1194" height="790" alt="image" src="https://github.com/user-attachments/assets/3f81d42e-3c8c-4f3c-b86c-aadc0dd88012" />
+<img width="1505" height="824" alt="image" src="https://github.com/user-attachments/assets/12f07dfa-78c4-4bd8-ba24-204737ef578f" />
+<img width="913" height="790" alt="image" src="https://github.com/user-attachments/assets/ee1cb660-c059-4885-8806-4229afc88383" />
 
 ## ما الذي تساعدك على تتبّعه: الميزات الأساسية والحلول
 
