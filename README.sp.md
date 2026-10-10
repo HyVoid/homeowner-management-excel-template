@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Plantilla de Excel para la Gestión Financiera y de Mantenimiento del Primer Año como Propietario de Vivienda
 
@@ -13,6 +13,10 @@
 > **🌐 [Pruebe el Tablero de Presupuesto del Hogar Gratuito en Línea](https://hyvoid.github.io/homeowner-management-excel-template/)** → Explore el rastreador de propiedades interactivo basado en web
 > 
 > **📥 [Descargue el Rastreador Financiero para Propietarios de Vivienda en Excel (.xlsx)](https://theseusworkshop.com/l/bfcoqf?utm_source=github&utm_medium=GitHub%20README)** → Obtenga la versión reutilizable del libro de Excel sin conexión
+<img width="1109" height="790" alt="image" src="https://github.com/user-attachments/assets/e35407b6-7f02-4d80-b482-45ba0ba4da9b" />
+<img width="1194" height="790" alt="image" src="https://github.com/user-attachments/assets/3f81d42e-3c8c-4f3c-b86c-aadc0dd88012" />
+<img width="1505" height="824" alt="image" src="https://github.com/user-attachments/assets/12f07dfa-78c4-4bd8-ba24-204737ef578f" />
+<img width="913" height="790" alt="image" src="https://github.com/user-attachments/assets/ee1cb660-c059-4885-8806-4229afc88383" />
 
 ## Qué le ayuda a rastrear: Funciones principales y soluciones
 
