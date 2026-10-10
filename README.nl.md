@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Excel-sjabloon voor financiën en onderhoud van de huiseigenaar in het eerste jaar
 
@@ -13,6 +13,10 @@
 > **🌐 [Probeer het gratis online dashboard voor het huishoudbudget](https://hyvoid.github.io/homeowner-management-excel-template/)** → Verken de interactieve webgebaseerde vastgoedtracker
 > 
 > **📥 [Download het Excel-bestand voor de financiële tracker van de huiseigenaar (.xlsx)](https://theseusworkshop.com/l/bfcoqf?utm_source=github&utm_medium=GitHub%20README)** → Download de herbruikbare offline werkmapversie
+<img width="1109" height="790" alt="image" src="https://github.com/user-attachments/assets/e35407b6-7f02-4d80-b482-45ba0ba4da9b" />
+<img width="1194" height="790" alt="image" src="https://github.com/user-attachments/assets/3f81d42e-3c8c-4f3c-b86c-aadc0dd88012" />
+<img width="1505" height="824" alt="image" src="https://github.com/user-attachments/assets/12f07dfa-78c4-4bd8-ba24-204737ef578f" />
+<img width="913" height="790" alt="image" src="https://github.com/user-attachments/assets/ee1cb660-c059-4885-8806-4229afc88383" />
 
 ## Wat u hiermee kunt bijhouden: kernfuncties en oplossingen
 
