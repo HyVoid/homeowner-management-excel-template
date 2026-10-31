@@ -56,11 +56,11 @@ export const StartHereView: React.FC = () => {
               Sheet 01 / Operating Executive Summary
             </span>
             <h1 className="font-display text-[32px] font-bold text-[#051C2C] mt-1 tracking-[-0.03em]">
-              Welcome to HomeOS <span className="font-light text-[#888888]">PRO</span>
+              Theseus Workshop
             </h1>
           </div>
           <p className="text-[13px] text-[#888888] max-w-md text-left sm:text-right">
-            First-Year Homeowner Financial & Operating System. Commercial Turnkey Architecture.
+            First-Year-Homeowner-Financial-Operating-Workbook. Commercial Turnkey Architecture.
           </p>
         </div>
       </div>

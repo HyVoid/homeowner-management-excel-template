@@ -42,17 +42,17 @@ export const Header: React.FC<HeaderProps> = ({
     <header className="sticky top-0 z-40 bg-white border-b border-[#E5E5E5] shrink-0">
       {/* Top 56px Bar */}
       <div className="h-[56px] px-6 sm:px-10 flex items-center justify-between max-w-[1400px] mx-auto">
-        {/* Left: Brand & Title */}
+        {/* Left: Brand & Product Application Content */}
         <div className="flex items-center gap-3">
-          <div className="w-8 h-8 bg-[#051C2C] rounded-[6px] flex items-center justify-center text-white font-bold text-[15px] shadow-sm">
-            H
+          <div className="w-8 h-8 bg-[#051C2C] rounded-[6px] flex items-center justify-center text-white font-bold text-[14px] shadow-sm shrink-0">
+            TW
           </div>
-          <div className="flex items-baseline gap-2">
-            <span className="font-bold text-[18px] tracking-tight text-[#051C2C]">
-              HOMEOS <span className="font-light text-[#888888]">PRO</span>
+          <div className="flex flex-col justify-center">
+            <span className="font-bold text-[16px] sm:text-[17px] tracking-tight text-[#051C2C] leading-tight">
+              Theseus Workshop
             </span>
-            <span className="hidden lg:inline-block text-[11px] font-semibold uppercase tracking-[0.06em] text-[#888888] ml-2 pl-2 border-l border-[#E5E5E5]">
-              First-Year Homeowner Operating System
+            <span className="text-[11px] font-medium tracking-[0.03em] text-[#888888] leading-tight mt-0.5">
+              First-Year-Homeowner-Financial-Operating-Workbook
             </span>
           </div>
         </div>

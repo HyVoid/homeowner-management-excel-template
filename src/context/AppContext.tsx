@@ -79,7 +79,7 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
       const downloadAnchor = document.createElement('a');
       const dateStr = new Date().toISOString().split('T')[0];
       downloadAnchor.setAttribute('href', dataStr);
-      downloadAnchor.setAttribute('download', `HomeOS_Backup_${dateStr}.json`);
+      downloadAnchor.setAttribute('download', `Theseus_Workshop_Backup_${dateStr}.json`);
       document.body.appendChild(downloadAnchor);
       downloadAnchor.click();
       downloadAnchor.remove();
@@ -93,10 +93,10 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
     try {
       const parsed = JSON.parse(jsonString);
       if (!parsed.profile || !parsed.params || !Array.isArray(parsed.expenses)) {
-        return { success: false, error: 'Invalid HomeOS backup format: Missing required data keys.' };
+        return { success: false, error: 'Invalid backup format: Missing required data keys.' };
       }
       setState(parsed);
-      showFeedback('HomeOS data restored successfully from backup.', 'success');
+      showFeedback('Data restored successfully from backup.', 'success');
       return { success: true };
     } catch (err) {
       return { success: false, error: 'JSON Parse Error: ' + (err instanceof Error ? err.message : String(err)) };
