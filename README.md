@@ -32,6 +32,14 @@ We designed this tool by mapping common new-homebuyer pain points directly to au
 | **Untracked Renovation ROI** | **Capital Improvement Ledger:** Manages home improvement spending. Tracks contractor project budgets, actual construction costs, variance, permit numbers, and labor warranty dates. |
 | **Hidden Ownership Expenses** | **Annual Cost of Homeownership Dashboard:** Separates ordinary operating costs (sunk costs) from equity accumulation and capital expenditures (CapEx) to give you a clear, decision-ready financial overview. |
 
+## Spreadsheet Preview
+
+Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+
+**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/14_ecHlWY8X9c5daCkyvc1AfQn7AweC3Z/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+
 ## Quick Start Tutorial: How to Use the Home Management Spreadsheet
 
 The workbook is designed around a seamless **set once → record events → review automatically** workflow. Follow these steps to build your custom home operating model.
